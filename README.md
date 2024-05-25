@@ -15,5 +15,4 @@ Creative and detail-oriented Front-end Developer with over 3 years of experience
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=charlesik&show_icons=true&include_all_commits=true&hide_border=true" alt="Charles' GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesik&langs_count=8&layout=compact&hide_border=true" alt="Charles' GitHub stats" /> |
-| ------------- | ------------- |
+
