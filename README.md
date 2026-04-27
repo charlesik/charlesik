@@ -24,15 +24,6 @@ I am a results-driven Frontend Developer specializing in building **scalable, AP
 | **CI/CD & DevOps** | GitHub Actions, Jenkins, Docker, Vitest, Cypress |
 | **AI Stack** | OpenAI APIs, Claude Code, Cursor, AI-driven Workflow Automation |
 
----
-
-### 📈 GitHub Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=charlesik&show_icons=true&theme=tokyonight" alt="Charles's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesik&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 🌟 Featured Impact
 * **[Domain Search Engine]:** Built a high-concurrency search engine with real-time availability checks and AI domain suggestions.
