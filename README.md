@@ -28,8 +28,8 @@ I am a results-driven Frontend Developer specializing in building **scalable, AP
 
 ### 📈 GitHub Statistics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Charles's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=charlesik&show_icons=true&theme=tokyonight" alt="Charles's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesik&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -44,7 +44,7 @@ I am a results-driven Frontend Developer specializing in building **scalable, AP
 ### 📫 Let's Connect
 - **Email:** [charlesikilo@gmail.com](mailto:charlesikilo@gmail.com)
 - **LinkedIn:** [Ikechukwu Ilo](https://www.linkedin.com/in/ikechukwu-ilo-820879218)
-- **Writing:** [Medium Blog](YOUR_MEDIUM_LINK)
+- **Writing:** [Medium Blog](https://medium.com/@charlesikilo)
 - **Pronouns:** He/Him
 
 ---
