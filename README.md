@@ -1,5 +1,5 @@
 # Hello, I'm Charles Ikechukwu Ilo 👋🏾
-### Senior-Leaning Frontend Engineer | AI-Augmented Developer
+### Software Engineer | AI-Augmented Developer
 
 I am a results-driven Frontend Developer specializing in building **scalable, API-driven infrastructures**. With a focus on **Next.js, TypeScript, and AI integrations**, I bridge the gap between complex backend systems and high-performance user interfaces.
 
